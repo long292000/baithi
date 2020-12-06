@@ -1,0 +1,20 @@
+#long{
+    border-style: solid red;
+    background-color: red;
+    font-size: 50px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#long1{
+    border-style: solid lightblue;
+    background-color: lightblue;
+    font-size: 20px;
+    text-align: center;
+}
+
+#long2{
+    background-color: lightblue;
+    border-style: solid lightblue;
+    text-align: center;
+}
